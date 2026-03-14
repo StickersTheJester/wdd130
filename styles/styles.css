@@ -4,6 +4,13 @@
     box-sizing: border-box;
 }
 
+nav {
+    background-color: #ddd;
+    padding: 0;
+    display: block;
+
+}
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;

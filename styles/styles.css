@@ -11,6 +11,12 @@ nav {
 
 }
 
+nav a {
+    color: #222;
+    padding: 0;
+    display: block;
+}
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;

@@ -64,6 +64,8 @@ h1 {
     opacity: 0.7;
     background-color: var(--accent1-color);
     color: honeydew;
+    top: 50%;
+    transform: translateY(-50%);
 }
 
 .hero article img {

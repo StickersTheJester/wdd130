@@ -24,6 +24,12 @@ footer {
     text-decoration: none;
 }
 
+a {
+    border: 0;
+    width: 88px;
+    height: 31px
+}
+
 h1,
 h2 {
     font-family: var(--heading-font);

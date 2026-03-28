@@ -44,6 +44,11 @@ article {
     padding: 8px;
 }
 
+section img {
+    width: 100px;
+    height: auto;
+}
+
 nav a {
     text-decoration: none;
 }
@@ -85,9 +90,4 @@ h1 {
     float: right;
     width: 125px;
     margin-left: 10px;
-}
-
-figure {
-    width: 100px;
-    height: auto;
 }

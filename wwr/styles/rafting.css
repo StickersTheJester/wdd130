@@ -139,6 +139,12 @@ legend {
     font-weight: bold;
 }
 
+.profile-pic-placeholder {
+    width: 200px;
+    height: auto;
+    margin-left: 10px;
+}
+
 .hero article img {
     float: right;
     width: 125px;
